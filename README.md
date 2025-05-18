@@ -2,7 +2,7 @@
 
 A simple web app that shows the current date and time using HTML, CSS, and JavaScript.
 
-🔗 **Live Demo**: [date-time1.netlify.app](https://date-time1.netlify.app)
+🔗 **Live Demo**: [date-time1.netlify.app](https:date-time-webapp.netlify.app)
 
 ## ✨ Features
 
